@@ -147,3 +147,6 @@ This ensures every request carries a valid token even when the server rotates it
      --method POST \
      --cookie "PHPSESSID=<your_value>; security=low"
    ```
+   ## Author
+**Silwalkg** — Syntecxhub Cybersecurity Internship
+
