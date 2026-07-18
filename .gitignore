@@ -1,0 +1,21 @@
+# Runtime output
+*.log
+*.txt
+
+# Keep requirements.txt
+!requirements.txt
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS junk
+.DS_Store
+Thumbs.db
